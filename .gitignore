@@ -1,0 +1,12 @@
+src/build/*
+src/XQuartzHack.xcodeproj/*.mode1v3
+src/XQuartzHack.xcodeproj/*.pbxuser
+src/XQuartzHack.xcodeproj/*.tm_build_errors
+.DS_Store
+*.log
+releases
+tmp
+Thumbs.db*
+_site
+_layouts
+shared
